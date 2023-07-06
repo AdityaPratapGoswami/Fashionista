@@ -5,8 +5,7 @@
 }
 
 .navbar-brand img {
-  height: 120px;
-  width: 120px;
+  height: 100px;
 }
 
 .navbar-toggler-icon {
@@ -180,4 +179,8 @@ a {
 .social_media ul a {
   font-size: 1.5rem;
   margin: 0.5rem;
+}
+
+.navbar-collapse {
+  background-color: #bbfccc;
 }
